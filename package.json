@@ -20,6 +20,7 @@
   "author": "Corey Ward <corey@hey.com>",
   "license": "MPL-2.0",
   "files": [
+    "src/*",
     "index.js",
     "index.d.ts",
     "gatsby-node.js"
