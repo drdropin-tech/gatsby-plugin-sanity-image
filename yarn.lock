@@ -2589,10 +2589,10 @@
     "@types/node" "*"
     "form-data" "^3.0.0"
 
-"@types/node@*", "@types/node@^17.0.41", "@types/node@>=10.0.0", "@types/node@>=12":
-  "integrity" "sha512-xA6drNNeqb5YyV5fO3OAEsnXLfO7uF0whiOfPTz5AeDo8KeZFmODKnvwPymMNO8qE/an8pVY/O50tig2SQCrGw=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-17.0.41.tgz"
-  "version" "17.0.41"
+"@types/node@*", "@types/node@^17.0.42", "@types/node@>=10.0.0", "@types/node@>=12":
+  "integrity" "sha512-Q5BPGyGKcvQgAMbsr7qEGN/kIPN6zZecYYABeTDBizOsau+2NMdSVTar9UQw21A2+JyA2KRNDYaYrPB0Rpk2oQ=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-17.0.42.tgz"
+  "version" "17.0.42"
 
 "@types/node@^8.5.7":
   "integrity" "sha512-tktOkFUA4kXx2hhhrB8bIFb5TbwzS4uOhKEmwiD+NoiL0qtP2OQ9mFldbgD4dV1djrlBYP6eBuQZiWjuHUpqFw=="
@@ -8986,7 +8986,7 @@
   "resolved" "https://registry.npmjs.org/react-refresh/-/react-refresh-0.9.0.tgz"
   "version" "0.9.0"
 
-"react@^16.9.0 || ^17.0.0 || ^18.0.0", "react@^17.0.1 || ^18.1.0", "react@^18.1.0", "react@15.x || 16.x || 17.x || 18.x":
+"react@^16.9.0 || ^17.0.0 || ^18.0.0", "react@^18.1.0", "react@15.x || 16.x || 17.x || 18.x":
   "integrity" "sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.1.0.tgz"
   "version" "18.1.0"
